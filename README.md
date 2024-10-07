@@ -1,5 +1,5 @@
 Hello there 👋 <br>
-A Full-Stack Developer by day ☼ and a React Community Contributor by night ☾
+A Full-Stack Developer by day ☼ and a React Community Contributor by night ☾ <br>
 Software Developer at Hub85 Marketing;<br>
 <br>
 
