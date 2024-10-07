@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @Leonard-Albuquerque
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello there 👋
+A Full-Stack Developer by day ☼ and a React Community Contributor by night ☾
+Software Developer at Hub85 Marketing;
 
-<!---
-Leonard-Albuquerque/Leonard-Albuquerque is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+⚙️ I use daily: .py, .js, .html, .css, .scss, .ts, .jar, .json
+💅 Designed: @wbarber
+💬 ping me about design, branding, React, development, automation's.
