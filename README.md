@@ -1,5 +1,5 @@
 Hello there 👋 <br>
-A Full-Stack Developer by day ☼ and a Java/Python Community Contributor by night ☾ <br>
+A Full-Stack Developer by day ☼ and a Java/Typescript Community Contributor by night ☾ <br>
 Software Developer at Adgency LTDA;<br>
 <br>
 
