@@ -1,8 +1,8 @@
 Hello there 👋 <br>
-A Full-Stack Developer by day ☼ and a Java/Typescript Community Contributor by night ☾ <br>
+A Full-Stack Developer by day ☼ and a Go/Typescript Community Contributor by night ☾ <br>
 Software Developer at Adgency LTDA;<br>
 <br>
 
-⚙️ I use daily: .py, .js, .html, .css, .scss, .ts, .jar, .json <br>
+⚙️ I use daily: .py, .js, .html, .css, .scss, .ts, .jar, .json, .go <br>
 💅 Designed: @wbarber <br>
 💬 ping me about design, branding, React, development, automation's.
