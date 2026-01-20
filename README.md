@@ -9,5 +9,5 @@ https://leonard-james-dev.vercel.app
 If you would like to contribute to me or my content, please send me an email (the link is here on my blog). :)
 
 ⚙️ I use daily: .py, .js, .html, .css, .scss, .ts, .jar, .json, .go <br>
-💅 Designed: @wbarber {""} @ami.fitnesss 
+💅 Designed: @wbarber    @ami.fitnesss <br>
 💬 ping me about design, branding, React, development, automation's.
