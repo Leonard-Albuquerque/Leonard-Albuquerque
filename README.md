@@ -3,8 +3,11 @@ A Full-Stack Developer by day ☼ and a Go/Typescript Community Contributor by n
 Software Developer at Adgency LTDA;<br>
 <br>
 
-My personal blog, where I document my studies and the problems I solve daily as a programmer.
-https://leonard-james-dev.vercel.app
+My personal blog, where I document my studies and the problems I solve daily as a programmer:
+
+[My-Blog-Dev
+](https://leonard-albuquerque.github.io/LeonardJamesDevBlogHugo/)
+
 
 If you would like to contribute to me or my content, please send me an email (the link is here on my blog). :)
 
